@@ -9,7 +9,7 @@ The Ultimate Desktop Wallpaper Application
 
 ColorWall is a powerful desktop wallpaper store, manager, downloader, and application that provides users with a vast selection of high-quality wallpapers to choose from.
 
-## Key features of Ultimate Media downloader:
+## Key features of ColorWall:
 
 * **Comprehensive search:** Users can search for wallpapers using various criteria such as Colors, Tags, Categories, Resolution, Popularity, Views, and other Rating criterias with the help of the powerful filter tools.
 
