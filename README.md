@@ -9,6 +9,8 @@ The Ultimate Desktop Wallpaper Application
 
 ColorWall is a powerful desktop wallpaper store, manager, downloader, and application that provides users with a vast selection of high-quality wallpapers to choose from.
 
+<br/>
+
 ## Key features of ColorWall:
 
 * **Comprehensive search:** Users can search for wallpapers using various criteria such as Colors, Tags, Categories, Resolution, Popularity, Views, and other Rating criterias with the help of the powerful filter tools.
@@ -18,6 +20,8 @@ ColorWall is a powerful desktop wallpaper store, manager, downloader, and applic
 * **Cross-platform support:** ColorWall supports major desktop environments such as windows, cinnamon, deepin, lxqt, mate, pantheon, kde-plasma-5, unity, xfce4, and even FEH and WAL as supported backends, making it a versatile application that works seamlessly across platforms. (Note: some of these backends may not work if you install ColorWall using sandbox packaging foramts like snap or flatpak)
 
 * **Highly optimized browsing experience:** ColorWall features an infinity-scrollable wallpaper browsing viewport that is highly optimized for a smooth and seamless user experience, making it easy to browse through the extensive wallpaper collection quickly.
+
+* **Tabbed browsing** User can open multiple tabs to Browse Images with specified filters and parameters.
 
 * **Built-in viewer:** With the built-in wallpaper viewer, users can preview wallpapers before downloading them, ensuring that they select only the ones they like.
 
@@ -37,8 +41,27 @@ ColorWall is a powerful desktop wallpaper store, manager, downloader, and applic
 
 Note: ColorWall will gradually be available in other platforms like Windows and MacOs.
 
+<br/>
 
-## Screenshots of ColorWall version 1.2
+## Install ColorWall on Linux Desktop
+
+**Using snap**
+
+<a href="https://snapcraft.io/colorwall">
+  <img  width='240'  alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+</a>
+
+`snap install colorwall`
+
+**Using Flatpak**
+
+<a href='https://flathub.org/apps/com.ktechpit.colorwall'><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
+
+`flatpak install flathub com.ktechpit.colorwall`
+
+<br/>
+
+## Screenshots of ColorWall (could be outdated)
 
 ![ColorWall](https://github.com/keshavbhatt/colorwall-issue-tracker/blob/main/images/1.jpeg?raw=true)
 
@@ -47,5 +70,3 @@ Note: ColorWall will gradually be available in other platforms like Windows and 
 ![ColorWall](https://github.com/keshavbhatt/colorwall-issue-tracker/blob/main/images/3.jpeg?raw=true)
 
 ![ColorWall](https://github.com/keshavbhatt/colorwall-issue-tracker/blob/main/images/4.jpeg?raw=true)
-
-
